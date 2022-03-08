@@ -1,4 +1,4 @@
-<h1>Payment-Gateway-Integration</h1>
+<h2>Payment-Gateway-Integration</h2>
 
 Created a simple website where payment gateway is integrated.
 
